@@ -1,0 +1,19 @@
+{
+  "name": "dmikey-tilde-town",
+  "version": "0.0.0",
+  "description": "dmikey-tilde-town =================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmikey/dmikey-tilde-town.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmikey/dmikey-tilde-town/issues"
+  },
+  "homepage": "https://github.com/dmikey/dmikey-tilde-town"
+}
