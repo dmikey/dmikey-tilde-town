@@ -1,8 +1,8 @@
 (function(){
 	var meta = {
-		sitename: 'dmikey',
-		description: 'This page built with <a href="http://www.github.com/dmikey/sumojs" target="_new">SumoJS.</a>',
-		copyright: '© 2014 Derek Anderson'
+		sitename: 'SumoJS',
+		description: 'This page built with <a href="http://www.github.com/dmikey/sumojs" target="_new">SumoJS</a>, the ultra light JavaScript Framework.',
+		copyright: '© 2014 <a href="http://github.com/dmikey">Dmikey</a>'
 	};
 
 	var sumo = 'src/sumojs/release';
