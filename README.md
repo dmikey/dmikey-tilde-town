@@ -1,4 +1,4 @@
 dmikey-tilde-town
 =================
 
-my tilde town website.
+this started as a tilde town website, but has since morphed into the beginnings of a SumoJS website.
