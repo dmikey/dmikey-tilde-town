@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet/less" type="text/css" href="less/main.less" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.7.5/less.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.15/require.js"></script>
+	<script>
+		require.config({
+			path: 'src'
+		});
+	</script>
+	<script src="src/main.js"></script>
+</head>
+<body>
+	<!-- static elements -->
+	<div id="render_target"></div>
+
+	<!-- page components -->
+	<template id="header_template">
+		<div class="header">
+			<%=sitename%>
+		</div>
+	</template>
+
+	<!-- page views -->
+	<template id="main_view">
+		<dmikey-header></dmikey-header>
+	</template>
+</body>
+</html>
