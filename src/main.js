@@ -1,11 +1,11 @@
 (function(){
 	var meta = {
 		sitename: 'SumoJS',
-		description: 'This page built with <a href="http://www.github.com/dmikey/sumojs" target="_new">SumoJS</a>, the ultra light JavaScript Framework.',
+		description: 'This page built with <a href="http://www.github.com/dmikey/sumojs" target="_new">SumoJS</a>, the ultra light JavaScript Application Framework.',
 		copyright: '© 2014 <a href="http://github.com/dmikey">Dmikey</a>'
 	};
 
-	var sumo = 'src/sumojs/release';
+	var sumo = 'src/sumojs/main';
 
 	define('header', [sumo], function(sumo) {
 		return sumo.create({
